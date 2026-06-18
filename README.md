@@ -52,6 +52,11 @@
 - Linear Regression
 ---
 
+## 📈 Badges
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-green)
+![Machine Learning](https://img.shields.io/badge/ML-Projects-orange)
+
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/nstrivedi
 - Email: nishanttrivedi11@gmail.com
