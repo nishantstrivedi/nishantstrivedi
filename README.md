@@ -31,18 +31,21 @@
 ## 🔥 Featured Projects
 
 ### 🏦 Bank Fraud Risk Analysis
-- EDA + Machine Learning Model
+- EDA
 - Fraud Detection System
 
 ### 🏍️ Product-Dissection-For-Rapido
 - ER Diagram
 - Schema Design
+- Real World Problem & Its Solution
 
 ### 👤 Retail-Customer-Segmentation-Kmeans
 - Clustering
+- Machine Learning Model
 
 ### 🏠 House-Rent-Prediction
 - Linear Regression
+- Machine Learning Model
 
 ---
 
