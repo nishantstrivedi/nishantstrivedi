@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nishant Trivedi</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | AI & ML Enthusiast</h3>
 
-<!--
-**nishantstrivedi/nishantstrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🔭 Currently working on **Data Science & AI Projects**
+- 🌱 Learning **Advanced Machine Learning & Generative AI**
+- 🤖 Exploring **Prompt Engineering, Agentic AI & AI Automation**
+- 💬 Ask me about **Python, SQL, Data Analysis & AI Tools**
+- 📫 Reach me at: **nishanttrivedi11@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+
+### 💻 Programming & Tools
+- Python | SQL | Excel
+
+### 📊 Data Analysis & Visualization
+- NumPy | Pandas | Matplotlib | Seaborn
+
+### 🤖 Machine Learning
+- Scikit-learn
+
+### 🧠 AI & Advanced Technologies
+- Generative AI | Prompt Engineering | Claude AI | CrewAI | Agentic AI
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🔥 Featured Projects
+
+### 🏦 Bank Fraud Risk Analysis
+- EDA + Machine Learning Model
+- Fraud Detection System
+
+### 🏍️ Product-Dissection-For-Rapido
+- ER Diagram
+- Schema Design
+
+### 👤 Retail-Customer-Segmentation-Kmeans
+- Clustering
+
+### 🏠 House-Rent-Prediction
+- Linear Regression
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/nishantstrivedi
+- Email: nishanttrivedi11@gmail.com
+
+---
+
+⭐ *"Turning Data into Decisions with AI"*
