@@ -18,7 +18,7 @@
 - Python | SQL | Excel
 
 ### 📊 Data Analysis & Visualization
-- NumPy | Pandas | Matplotlib | Seaborn
+- NumPy | Pandas | Matplotlib | Seaborn | PowerBI
 
 ### 🤖 Machine Learning
 - Scikit-learn
