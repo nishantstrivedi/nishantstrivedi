@@ -4,10 +4,10 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on **Data Science & AI Projects**
+- 🔭 Currently working on upskill myself for **Data Science & AI Projects**
 - 🌱 Learning **Advanced Machine Learning & Generative AI**
 - 🤖 Exploring **Prompt Engineering, Agentic AI & AI Automation**
-- 💬 Ask me about **Python, SQL, Data Analysis & AI Tools**
+- 💬 Ask me about **Python, SQL, Data Analysis, Data Visualization & AI Tools**
 - 📫 Reach me at: **nishanttrivedi11@gmail.com**
 
 ---
