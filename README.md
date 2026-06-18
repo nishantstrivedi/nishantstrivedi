@@ -53,7 +53,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/nishantstrivedi
+- LinkedIn: https://linkedin.com/in/nstrivedi
 - Email: nishanttrivedi11@gmail.com
 
 ---
