@@ -46,6 +46,21 @@
 
 ---
 
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=nishantstrivedi&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantstrivedi&layout=compact)
+
+---
+
+## ⭐ Badges
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-green)
+![Machine Learning](https://img.shields.io/badge/ML-Projects-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-Advanced-green)
+
+---
+
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/nstrivedi
 - Email: nishanttrivedi11@gmail.com
