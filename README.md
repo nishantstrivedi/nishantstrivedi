@@ -46,13 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=nishantstrivedi&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantstrivedi&layout=compact)
-
----
-
 ## ⭐ Badges
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-green)
